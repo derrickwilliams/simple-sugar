@@ -1,0 +1,21 @@
+{
+  "name": "simple-sugar",
+  "version": "0.0.0",
+  "description": "Helper stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/jasmine/bin/jasmine.js"
+  },
+  "author": "DerrickW",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^2.9.25",
+    "body-parser": "^1.12.4",
+    "express": "^4.12.4",
+    "lodash": "^3.9.1",
+    "mongodb": "^2.0.33"
+  },
+  "devDependencies": {
+    "jasmine": "^2.3.1"
+  }
+}
